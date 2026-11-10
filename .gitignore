@@ -30,7 +30,8 @@ logs/
 *.onnx
 
 # Dataset
-dataset/
+dataset/phoenix-2014.v3
+dataset/vsl_400
 
 # Temporary files
 tmp/
